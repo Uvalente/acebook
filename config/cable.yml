@@ -6,5 +6,5 @@ test:
 
 production:
   adapter: redis
-  url: redis://redistogo:bcaccfa2cd34fd82abdbf770a1ac4760@porgy.redistogo.com:11833/
+  url: redis://redistogo:7052cfc45e5a9f9a4d4d177f03bd316c@soapfish.redistogo.com:9011/
   channel_prefix: acebook_production
